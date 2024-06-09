@@ -1,14 +1,13 @@
 ---
-permalink: /
-
 home: true
-heroImage: /icon/logo.png  
+# vuepress程序默认的图片目录是/docs/.vuepress/public
+heroImage: /assets/img/logo.png  
 heroText: 知之的思维导图技术笔记
 tagline: null
 actionText: 快速开刷 →
 actionLink: /
 sidebar: false
-footer: MIT Licensed | Copyright ©2022-present
+footer: MIT Licensed | Copyright ©2022-present 
 ---
 ### 📖 思维导图
 - 📚 Java：包括Java基础、容器、并发和JVM知识。
@@ -18,3 +17,4 @@ footer: MIT Licensed | Copyright ©2022-present
 
 ###  关于作者
 大家好，我是ivem，本网以思维导图的形式系统总结了Java相关知识。
+
